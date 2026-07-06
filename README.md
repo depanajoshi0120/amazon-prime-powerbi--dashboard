@@ -6,7 +6,7 @@ genre trends, content growth patterns, and movie vs show
 distribution to support content strategy decisions.
 
 ## Dashboard Preview
-![Dashboard](amazon.png)
+![Dashboard](dashboard_finals.png)
 
 ## Tools Used
 - Power BI (Dashboard & DAX measures)
