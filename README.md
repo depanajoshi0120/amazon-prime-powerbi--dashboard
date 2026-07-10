@@ -26,7 +26,5 @@ distribution to support content strategy decisions.
 
 ## Known Limitations
 - Genre chart does not dynamically filter with slicers due to exploded table structure
-- 2021 data is incomplete in the source dataset
-- 
-  to exploded table structure
-- 2021 data is incomplete in the source dataset
+- 2021 data is incomplete in the source dataset to exploded table structure
+
